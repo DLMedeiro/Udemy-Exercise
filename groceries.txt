@@ -7,3 +7,5 @@
 - ice
 - hot dogs
 - buns
+- Hamburgers
+- Pickles
